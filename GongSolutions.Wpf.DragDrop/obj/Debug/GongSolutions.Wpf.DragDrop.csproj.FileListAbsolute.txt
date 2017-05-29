@@ -1,0 +1,35 @@
+C:\Users\Jesse\Desktop\WorkAtHome\Labs\gong-wpf-dragdrop_src\gong-wpf-dragdrop\GongSolutions.Wpf.DragDrop\bin\Debug\GongSolutions.Wpf.DragDrop.dll
+C:\Users\Jesse\Desktop\WorkAtHome\Labs\gong-wpf-dragdrop_src\gong-wpf-dragdrop\GongSolutions.Wpf.DragDrop\bin\Debug\GongSolutions.Wpf.DragDrop.pdb
+C:\Users\Jesse\Desktop\WorkAtHome\Labs\gong-wpf-dragdrop_src\gong-wpf-dragdrop\GongSolutions.Wpf.DragDrop\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesse\Desktop\WorkAtHome\Labs\gong-wpf-dragdrop_src\gong-wpf-dragdrop\GongSolutions.Wpf.DragDrop\obj\Debug\GongSolutions.Wpf.DragDrop.dll
+C:\Users\Jesse\Desktop\WorkAtHome\Labs\gong-wpf-dragdrop_src\gong-wpf-dragdrop\GongSolutions.Wpf.DragDrop\obj\Debug\GongSolutions.Wpf.DragDrop.pdb
+C:\Users\Jesse\Desktop\WindARTdevelopment\branches\1.0.0\Source\GongSolutions.Wpf.DragDrop\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesse\Desktop\WindARTdevelopment\branches\1.0.0\Source\GongSolutions.Wpf.DragDrop\bin\Debug\GongSolutions.Wpf.DragDrop.dll
+C:\Users\Jesse\Desktop\WindARTdevelopment\branches\1.0.0\Source\GongSolutions.Wpf.DragDrop\bin\Debug\GongSolutions.Wpf.DragDrop.pdb
+C:\Users\Jesse\Desktop\WindARTdevelopment\branches\1.0.0\Source\GongSolutions.Wpf.DragDrop\obj\Debug\GongSolutions.Wpf.DragDrop.dll
+C:\Users\Jesse\Desktop\WindARTdevelopment\branches\1.0.0\Source\GongSolutions.Wpf.DragDrop\obj\Debug\GongSolutions.Wpf.DragDrop.pdb
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment\branches\1.0.0\Source\GongSolutions.Wpf.DragDrop\bin\Debug\GongSolutions.Wpf.DragDrop.dll
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment\branches\1.0.0\Source\GongSolutions.Wpf.DragDrop\bin\Debug\GongSolutions.Wpf.DragDrop.pdb
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment\branches\1.0.0\Source\GongSolutions.Wpf.DragDrop\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment\branches\1.0.0\Source\GongSolutions.Wpf.DragDrop\obj\Debug\GongSolutions.Wpf.DragDrop.dll
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment\branches\1.0.0\Source\GongSolutions.Wpf.DragDrop\obj\Debug\GongSolutions.Wpf.DragDrop.pdb
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment\branches\2.0.0\Source\GongSolutions.Wpf.DragDrop\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment\branches\2.0.0\Source\GongSolutions.Wpf.DragDrop\obj\Debug\GongSolutions.Wpf.DragDrop.dll
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment\branches\2.0.0\Source\GongSolutions.Wpf.DragDrop\obj\Debug\GongSolutions.Wpf.DragDrop.pdb
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment\branches\2.0.0\Source\GongSolutions.Wpf.DragDrop\bin\Debug\GongSolutions.Wpf.DragDrop.dll
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment\branches\2.0.0\Source\GongSolutions.Wpf.DragDrop\bin\Debug\GongSolutions.Wpf.DragDrop.pdb
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment1\branches\2.0.0\Source\GongSolutions.Wpf.DragDrop\bin\Debug\GongSolutions.Wpf.DragDrop.dll
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment1\branches\2.0.0\Source\GongSolutions.Wpf.DragDrop\bin\Debug\GongSolutions.Wpf.DragDrop.pdb
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment1\branches\2.0.0\Source\GongSolutions.Wpf.DragDrop\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment1\branches\2.0.0\Source\GongSolutions.Wpf.DragDrop\obj\Debug\GongSolutions.Wpf.DragDrop.dll
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment1\branches\2.0.0\Source\GongSolutions.Wpf.DragDrop\obj\Debug\GongSolutions.Wpf.DragDrop.pdb
+P:\JesseRichards\WindARTdevelopment\branches\2.0.0\Source\GongSolutions.Wpf.DragDrop\bin\Debug\GongSolutions.Wpf.DragDrop.dll
+P:\JesseRichards\WindARTdevelopment\branches\2.0.0\Source\GongSolutions.Wpf.DragDrop\bin\Debug\GongSolutions.Wpf.DragDrop.pdb
+P:\JesseRichards\WindARTdevelopment\branches\2.0.0\Source\GongSolutions.Wpf.DragDrop\obj\Debug\ResolveAssemblyReference.cache
+P:\JesseRichards\WindARTdevelopment\branches\2.0.0\Source\GongSolutions.Wpf.DragDrop\obj\Debug\GongSolutions.Wpf.DragDrop.dll
+P:\JesseRichards\WindARTdevelopment\branches\2.0.0\Source\GongSolutions.Wpf.DragDrop\obj\Debug\GongSolutions.Wpf.DragDrop.pdb
+C:\Users\Oakland\Desktop\WindARTdevelopment\branches\2.0.0\Source\GongSolutions.Wpf.DragDrop\bin\Debug\GongSolutions.Wpf.DragDrop.dll
+C:\Users\Oakland\Desktop\WindARTdevelopment\branches\2.0.0\Source\GongSolutions.Wpf.DragDrop\bin\Debug\GongSolutions.Wpf.DragDrop.pdb
+C:\Users\Oakland\Desktop\WindARTdevelopment\branches\2.0.0\Source\GongSolutions.Wpf.DragDrop\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Oakland\Desktop\WindARTdevelopment\branches\2.0.0\Source\GongSolutions.Wpf.DragDrop\obj\Debug\GongSolutions.Wpf.DragDrop.dll
+C:\Users\Oakland\Desktop\WindARTdevelopment\branches\2.0.0\Source\GongSolutions.Wpf.DragDrop\obj\Debug\GongSolutions.Wpf.DragDrop.pdb

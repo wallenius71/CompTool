@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\rich01\Desktop\WindARTdevelopment\WindART\branches\V1_1\Source\WindART.Data\WindART_DAL\bin\x86\Debug\WindART.DAL.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-12-16" time="15:52:32">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.5483" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.3\bin" machine-name="AHOUW72M0BXY1-L" user="rich01" user-domain="BP1" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\rich01\Desktop\WindARTdevelopment\WindART\branches\V1_1\Source\WindART.Data\WindART_DAL\bin\x86\Debug\WindART.DAL.dll" executed="True" result="Success" success="True" time="0.816" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="WindART" executed="True" result="Success" success="True" time="0.795" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="DAL" executed="True" result="Success" success="True" time="0.794" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="DAL_Tests" executed="True" result="Success" success="True" time="0.791" asserts="0">
+                <results>
+                  <test-case name="WindART.DAL.DAL_Tests.TestConnection" executed="True" result="Success" success="True" time="0.771" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

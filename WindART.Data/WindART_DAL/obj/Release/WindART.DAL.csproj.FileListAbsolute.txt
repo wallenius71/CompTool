@@ -1,0 +1,70 @@
+G:\WindART_DAL\WindART_DAL\bin\Release\WindART_DAL.dll.config
+G:\WindART_DAL\WindART_DAL\bin\Release\WindART_DAL.dll
+G:\WindART_DAL\WindART_DAL\bin\Release\WindART_DAL.pdb
+G:\WindART_DAL\WindART_DAL\bin\Release\nunit.framework.dll
+G:\WindART_DAL\WindART_DAL\bin\Release\nunit.framework.xml
+G:\WindART_DAL\WindART_DAL\obj\Release\ResolveAssemblyReference.cache
+G:\WindART_DAL\WindART_DAL\obj\Release\WindART_DAL.dll
+G:\WindART_DAL\WindART_DAL\obj\Release\WindART_DAL.pdb
+J:\C#\WindART_DAL\WindART_DAL\obj\Release\ResolveAssemblyReference.cache
+J:\C#\WindART_DAL\WindART_DAL\bin\Release\nunit.framework.xml
+J:\C#\WindART_DAL\WindART_DAL\bin\Release\nunit.framework.dll
+J:\C#\WindART_DAL\WindART_DAL\bin\Release\WindART.DAL.dll.config
+J:\C#\WindART_DAL\WindART_DAL\bin\Release\WindART.DAL.dll
+J:\C#\WindART_DAL\WindART_DAL\bin\Release\WindART.DAL.pdb
+J:\C#\WindART_DAL\WindART_DAL\obj\Release\WindART.DAL.dll
+J:\C#\WindART_DAL\WindART_DAL\obj\Release\WindART.DAL.pdb
+P:\JesseRichards\WindArt\C#\WindART_DAL\WindART_DAL\bin\Release\WindART.DAL.dll.config
+P:\JesseRichards\WindArt\C#\WindART_DAL\WindART_DAL\bin\Release\WindART.DAL.dll
+P:\JesseRichards\WindArt\C#\WindART_DAL\WindART_DAL\bin\Release\WindART.DAL.pdb
+P:\JesseRichards\WindArt\C#\WindART_DAL\WindART_DAL\bin\Release\nunit.framework.xml
+P:\JesseRichards\WindArt\C#\WindART_DAL\WindART_DAL\obj\Release\ResolveAssemblyReference.cache
+P:\JesseRichards\WindArt\C#\WindART_DAL\WindART_DAL\obj\Release\WindART.DAL.dll
+P:\JesseRichards\WindArt\C#\WindART_DAL\WindART_DAL\obj\Release\WindART.DAL.pdb
+P:\JesseRichards\WindArt\C#\WindARTComposites\WindART_DAL\WindART_DAL\bin\Release\WindART.DAL.dll.config
+P:\JesseRichards\WindArt\C#\WindARTComposites\WindART_DAL\WindART_DAL\bin\Release\WindART.DAL.dll
+P:\JesseRichards\WindArt\C#\WindARTComposites\WindART_DAL\WindART_DAL\bin\Release\WindART.DAL.pdb
+P:\JesseRichards\WindArt\C#\WindARTComposites\WindART_DAL\WindART_DAL\bin\Release\nunit.framework.xml
+P:\JesseRichards\WindArt\C#\WindARTComposites\WindART_DAL\WindART_DAL\obj\Release\ResolveAssemblyReference.cache
+P:\JesseRichards\WindArt\C#\WindARTComposites\WindART_DAL\WindART_DAL\obj\Release\WindART.DAL.dll
+P:\JesseRichards\WindArt\C#\WindARTComposites\WindART_DAL\WindART_DAL\obj\Release\WindART.DAL.pdb
+P:\JesseRichards\WindArt\C#\OldProjects\WindARTComposites\WindART_DAL\WindART_DAL\bin\Release\WindART.DAL.dll.config
+P:\JesseRichards\WindArt\C#\OldProjects\WindARTComposites\WindART_DAL\WindART_DAL\bin\Release\WindART.DAL.dll
+P:\JesseRichards\WindArt\C#\OldProjects\WindARTComposites\WindART_DAL\WindART_DAL\bin\Release\WindART.DAL.pdb
+P:\JesseRichards\WindArt\C#\OldProjects\WindARTComposites\WindART_DAL\WindART_DAL\bin\Release\nunit.framework.dll
+P:\JesseRichards\WindArt\C#\OldProjects\WindARTComposites\WindART_DAL\WindART_DAL\bin\Release\nunit.framework.xml
+P:\JesseRichards\WindArt\C#\OldProjects\WindARTComposites\WindART_DAL\WindART_DAL\obj\Release\ResolveAssemblyReference.cache
+P:\JesseRichards\WindArt\C#\OldProjects\WindARTComposites\WindART_DAL\WindART_DAL\obj\Release\WindART.DAL.dll
+P:\JesseRichards\WindArt\C#\OldProjects\WindARTComposites\WindART_DAL\WindART_DAL\obj\Release\WindART.DAL.pdb
+\\orion1\public\JesseRichards\WindArt\C#\OldProjects\WindARTComposites\WindART_DAL\WindART_DAL\bin\Release\WindART.DAL.dll.config
+\\orion1\public\JesseRichards\WindArt\C#\OldProjects\WindARTComposites\WindART_DAL\WindART_DAL\bin\Release\WindART.DAL.dll
+\\orion1\public\JesseRichards\WindArt\C#\OldProjects\WindARTComposites\WindART_DAL\WindART_DAL\bin\Release\WindART.DAL.pdb
+\\orion1\public\JesseRichards\WindArt\C#\OldProjects\WindARTComposites\WindART_DAL\WindART_DAL\bin\Release\nunit.framework.dll
+\\orion1\public\JesseRichards\WindArt\C#\OldProjects\WindARTComposites\WindART_DAL\WindART_DAL\bin\Release\nunit.framework.xml
+\\orion1\public\JesseRichards\WindArt\C#\OldProjects\WindARTComposites\WindART_DAL\WindART_DAL\obj\Release\ResolveAssemblyReference.cache
+\\orion1\public\JesseRichards\WindArt\C#\OldProjects\WindARTComposites\WindART_DAL\WindART_DAL\obj\Release\WindART.DAL.dll
+\\orion1\public\JesseRichards\WindArt\C#\OldProjects\WindARTComposites\WindART_DAL\WindART_DAL\obj\Release\WindART.DAL.pdb
+C:\Documents and Settings\rich01\Desktop\WindART\WindART_DAL\bin\Release\WindART.DAL.dll.config
+C:\Documents and Settings\rich01\Desktop\WindART\WindART_DAL\bin\Release\WindART.DAL.dll
+C:\Documents and Settings\rich01\Desktop\WindART\WindART_DAL\bin\Release\WindART.DAL.pdb
+C:\Documents and Settings\rich01\Desktop\WindART\WindART_DAL\bin\Release\nunit.framework.dll
+C:\Documents and Settings\rich01\Desktop\WindART\WindART_DAL\bin\Release\nunit.framework.xml
+C:\Documents and Settings\rich01\Desktop\WindART\WindART_DAL\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\rich01\Desktop\WindART\WindART_DAL\obj\Release\WindART.DAL.dll
+C:\Documents and Settings\rich01\Desktop\WindART\WindART_DAL\obj\Release\WindART.DAL.pdb
+C:\Documents and Settings\rich01\Desktop\WindART\WindART.Data\WindART_DAL\bin\Release\WindART.DAL.dll.config
+C:\Documents and Settings\rich01\Desktop\WindART\WindART.Data\WindART_DAL\bin\Release\WindART.DAL.dll
+C:\Documents and Settings\rich01\Desktop\WindART\WindART.Data\WindART_DAL\bin\Release\WindART.DAL.pdb
+C:\Documents and Settings\rich01\Desktop\WindART\WindART.Data\WindART_DAL\bin\Release\nunit.framework.dll
+C:\Documents and Settings\rich01\Desktop\WindART\WindART.Data\WindART_DAL\bin\Release\nunit.framework.xml
+C:\Documents and Settings\rich01\Desktop\WindART\WindART.Data\WindART_DAL\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\rich01\Desktop\WindART\WindART.Data\WindART_DAL\obj\Release\WindART.DAL.dll
+C:\Documents and Settings\rich01\Desktop\WindART\WindART.Data\WindART_DAL\obj\Release\WindART.DAL.pdb
+P:\JesseRichards\WindArt\WindArtDevSVN\Source\WindART.Data\WindART_DAL\bin\Release\WindART.DAL.dll.config
+P:\JesseRichards\WindArt\WindArtDevSVN\Source\WindART.Data\WindART_DAL\bin\Release\WindART.DAL.dll
+P:\JesseRichards\WindArt\WindArtDevSVN\Source\WindART.Data\WindART_DAL\bin\Release\WindART.DAL.pdb
+P:\JesseRichards\WindArt\WindArtDevSVN\Source\WindART.Data\WindART_DAL\bin\Release\nunit.framework.dll
+P:\JesseRichards\WindArt\WindArtDevSVN\Source\WindART.Data\WindART_DAL\bin\Release\nunit.framework.xml
+P:\JesseRichards\WindArt\WindArtDevSVN\Source\WindART.Data\WindART_DAL\obj\Release\ResolveAssemblyReference.cache
+P:\JesseRichards\WindArt\WindArtDevSVN\Source\WindART.Data\WindART_DAL\obj\Release\WindART.DAL.dll
+P:\JesseRichards\WindArt\WindArtDevSVN\Source\WindART.Data\WindART_DAL\obj\Release\WindART.DAL.pdb

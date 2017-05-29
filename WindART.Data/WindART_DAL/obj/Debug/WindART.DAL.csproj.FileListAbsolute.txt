@@ -1,0 +1,65 @@
+J:\C#\WindART_DAL\WindART_DAL\obj\Debug\ResolveAssemblyReference.cache
+J:\C#\WindART_DAL\WindART_DAL\bin\Debug\WindART_DAL.dll.config
+J:\C#\WindART_DAL\WindART_DAL\bin\Debug\WindART_DAL.dll
+J:\C#\WindART_DAL\WindART_DAL\bin\Debug\WindART_DAL.pdb
+J:\C#\WindART_DAL\WindART_DAL\bin\Debug\nunit.framework.dll
+J:\C#\WindART_DAL\WindART_DAL\bin\Debug\nunit.framework.xml
+J:\C#\WindART_DAL\WindART_DAL\obj\Debug\WindART_DAL.dll
+J:\C#\WindART_DAL\WindART_DAL\obj\Debug\WindART_DAL.pdb
+P:\JesseRichards\WindArt\C#\WindART_DAL\WindART_DAL\bin\Debug\WindART.DAL.dll.config
+P:\JesseRichards\WindArt\C#\WindART_DAL\WindART_DAL\bin\Debug\WindART.DAL.dll
+P:\JesseRichards\WindArt\C#\WindART_DAL\WindART_DAL\bin\Debug\WindART.DAL.pdb
+P:\JesseRichards\WindArt\C#\WindART_DAL\WindART_DAL\bin\Debug\nunit.framework.xml
+P:\JesseRichards\WindArt\C#\WindART_DAL\WindART_DAL\obj\Debug\ResolveAssemblyReference.cache
+P:\JesseRichards\WindArt\C#\WindART_DAL\WindART_DAL\obj\Debug\WindART.DAL.dll
+P:\JesseRichards\WindArt\C#\WindART_DAL\WindART_DAL\obj\Debug\WindART.DAL.pdb
+C:\Users\Jesse\Desktop\WindARTdevelopment\branches\1.0.0\Source\WindART.Data\WindART_DAL\bin\Debug\WindART.DAL.dll.config
+C:\Users\Jesse\Desktop\WindARTdevelopment\branches\1.0.0\Source\WindART.Data\WindART_DAL\bin\Debug\WindART.DAL.dll
+C:\Users\Jesse\Desktop\WindARTdevelopment\branches\1.0.0\Source\WindART.Data\WindART_DAL\bin\Debug\WindART.DAL.pdb
+C:\Users\Jesse\Desktop\WindARTdevelopment\branches\1.0.0\Source\WindART.Data\WindART_DAL\bin\Debug\nunit.framework.dll
+C:\Users\Jesse\Desktop\WindARTdevelopment\branches\1.0.0\Source\WindART.Data\WindART_DAL\bin\Debug\nunit.framework.xml
+C:\Users\Jesse\Desktop\WindARTdevelopment\branches\1.0.0\Source\WindART.Data\WindART_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesse\Desktop\WindARTdevelopment\branches\1.0.0\Source\WindART.Data\WindART_DAL\obj\Debug\WindART.DAL.dll
+C:\Users\Jesse\Desktop\WindARTdevelopment\branches\1.0.0\Source\WindART.Data\WindART_DAL\obj\Debug\WindART.DAL.pdb
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment\branches\1.0.0\Source\WindART.Data\WindART_DAL\bin\Debug\WindART.DAL.dll.config
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment\branches\1.0.0\Source\WindART.Data\WindART_DAL\bin\Debug\WindART.DAL.dll
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment\branches\1.0.0\Source\WindART.Data\WindART_DAL\bin\Debug\WindART.DAL.pdb
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment\branches\1.0.0\Source\WindART.Data\WindART_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment\branches\1.0.0\Source\WindART.Data\WindART_DAL\obj\Debug\WindART.DAL.dll
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment\branches\1.0.0\Source\WindART.Data\WindART_DAL\obj\Debug\WindART.DAL.pdb
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment\branches\2.0.0\Source\WindART.Data\WindART_DAL\bin\Debug\app.config
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment\branches\2.0.0\Source\WindART.Data\WindART_DAL\bin\Debug\WindART.DAL.dll.config
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment\branches\2.0.0\Source\WindART.Data\WindART_DAL\bin\Debug\WindART.DAL.dll
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment\branches\2.0.0\Source\WindART.Data\WindART_DAL\bin\Debug\WindART.DAL.pdb
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment\branches\2.0.0\Source\WindART.Data\WindART_DAL\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment\branches\2.0.0\Source\WindART.Data\WindART_DAL\bin\Debug\nunit.framework.xml
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment\branches\2.0.0\Source\WindART.Data\WindART_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment\branches\2.0.0\Source\WindART.Data\WindART_DAL\obj\Debug\WindART.DAL.dll
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment\branches\2.0.0\Source\WindART.Data\WindART_DAL\obj\Debug\WindART.DAL.pdb
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment1\branches\2.0.0\Source\WindART.Data\WindART_DAL\bin\Debug\app.config
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment1\branches\2.0.0\Source\WindART.Data\WindART_DAL\bin\Debug\WindART.DAL.dll.config
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment1\branches\2.0.0\Source\WindART.Data\WindART_DAL\bin\Debug\WindART.DAL.dll
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment1\branches\2.0.0\Source\WindART.Data\WindART_DAL\bin\Debug\WindART.DAL.pdb
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment1\branches\2.0.0\Source\WindART.Data\WindART_DAL\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment1\branches\2.0.0\Source\WindART.Data\WindART_DAL\bin\Debug\nunit.framework.xml
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment1\branches\2.0.0\Source\WindART.Data\WindART_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment1\branches\2.0.0\Source\WindART.Data\WindART_DAL\obj\Debug\WindART.DAL.dll
+C:\Documents and Settings\rich01\Desktop\WindARTdevelopment1\branches\2.0.0\Source\WindART.Data\WindART_DAL\obj\Debug\WindART.DAL.pdb
+P:\JesseRichards\WindARTdevelopment\branches\2.0.0\Source\WindART.Data\WindART_DAL\bin\Debug\app.config
+P:\JesseRichards\WindARTdevelopment\branches\2.0.0\Source\WindART.Data\WindART_DAL\bin\Debug\WindART.DAL.dll.config
+P:\JesseRichards\WindARTdevelopment\branches\2.0.0\Source\WindART.Data\WindART_DAL\bin\Debug\WindART.DAL.dll
+P:\JesseRichards\WindARTdevelopment\branches\2.0.0\Source\WindART.Data\WindART_DAL\bin\Debug\WindART.DAL.pdb
+P:\JesseRichards\WindARTdevelopment\branches\2.0.0\Source\WindART.Data\WindART_DAL\obj\Debug\ResolveAssemblyReference.cache
+P:\JesseRichards\WindARTdevelopment\branches\2.0.0\Source\WindART.Data\WindART_DAL\obj\Debug\WindART.DAL.dll
+P:\JesseRichards\WindARTdevelopment\branches\2.0.0\Source\WindART.Data\WindART_DAL\obj\Debug\WindART.DAL.pdb
+P:\JesseRichards\WindARTdevelopment\branches\2.0.0\Source\WindART.Data\WindART_DAL\bin\Debug\nunit.framework.dll
+P:\JesseRichards\WindARTdevelopment\branches\2.0.0\Source\WindART.Data\WindART_DAL\bin\Debug\nunit.framework.xml
+C:\Users\Oakland\Desktop\WindARTdevelopment\branches\2.0.0\Source\WindART.Data\WindART_DAL\bin\Debug\app.config
+C:\Users\Oakland\Desktop\WindARTdevelopment\branches\2.0.0\Source\WindART.Data\WindART_DAL\bin\Debug\WindART.DAL.dll.config
+C:\Users\Oakland\Desktop\WindARTdevelopment\branches\2.0.0\Source\WindART.Data\WindART_DAL\bin\Debug\WindART.DAL.dll
+C:\Users\Oakland\Desktop\WindARTdevelopment\branches\2.0.0\Source\WindART.Data\WindART_DAL\bin\Debug\WindART.DAL.pdb
+C:\Users\Oakland\Desktop\WindARTdevelopment\branches\2.0.0\Source\WindART.Data\WindART_DAL\bin\Debug\nunit.framework.dll
+C:\Users\Oakland\Desktop\WindARTdevelopment\branches\2.0.0\Source\WindART.Data\WindART_DAL\bin\Debug\nunit.framework.xml
+C:\Users\Oakland\Desktop\WindARTdevelopment\branches\2.0.0\Source\WindART.Data\WindART_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Oakland\Desktop\WindARTdevelopment\branches\2.0.0\Source\WindART.Data\WindART_DAL\obj\Debug\WindART.DAL.dll
+C:\Users\Oakland\Desktop\WindARTdevelopment\branches\2.0.0\Source\WindART.Data\WindART_DAL\obj\Debug\WindART.DAL.pdb

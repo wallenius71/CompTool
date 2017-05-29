@@ -1,0 +1,6 @@
+G:\WindART_DAL\WindART_DAL\obj\Release\ResolveAssemblyReference.cache
+G:\WindART_DAL\WindART_DAL\bin\Release\WindART_DAL.dll.config
+G:\WindART_DAL\WindART_DAL\bin\Release\WindART_DAL.dll
+G:\WindART_DAL\WindART_DAL\bin\Release\WindART_DAL.pdb
+G:\WindART_DAL\WindART_DAL\obj\Release\WindART_DAL.dll
+G:\WindART_DAL\WindART_DAL\obj\Release\WindART_DAL.pdb
