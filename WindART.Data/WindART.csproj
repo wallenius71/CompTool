@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{99683485-613A-4F4C-8B6B-B372FE34857C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindART</RootNamespace>
+    <AssemblyName>WindART</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="GemBox.Spreadsheet">
+      <HintPath>..\..\..\..\..\..\WindART\C#\Needed Libraries\GemBox.Spreadsheet Free 3.3\Bin\NET30\GemBox.Spreadsheet.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework, Version=2.5.2.9222, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77, processorArchitecture=MSIL" />
+    <Reference Include="PresentationCore">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="PresentationFramework">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindART.DAL, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>WindART_DAL\bin\x86\Debug\WindART.DAL.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Abstract Classes\AbstractAxis.cs" />
+    <Compile Include="Abstract Classes\AbstractCreateGridAlgorithm.cs" />
+    <Compile Include="Abstract Classes\AbstractExcelReport.cs" />
+    <Compile Include="Abstract Classes\AbstractExcelWorkSheet.cs" />
+    <Compile Include="Abstract Classes\AbstractSummaryGrid.cs" />
+    <Compile Include="Abstract Classes\AbstractSummaryGridRow.cs" />
+    <Compile Include="Abstract Classes\AbstractXbyYShearGrid.cs" />
+    <Compile Include="Abstract Classes\CalculateGridColumnAlgorithm.cs" />
+    <Compile Include="Factories\DateTimeAxisFactory.cs" />
+    <Compile Include="Factories\SensorConfigFactory.cs" />
+    <Compile Include="Interfaces\IAxis.cs" />
+    <Compile Include="Interfaces\ICoincidentValues.cs" />
+    <Compile Include="Interfaces\IComposite.cs" />
+    <Compile Include="Interfaces\IConfig.cs" />
+    <Compile Include="Interfaces\IConfigCollection.cs" />
+    <Compile Include="Interfaces\ICreateGridAlgorithm.cs" />
+    <Compile Include="Interfaces\IDataRecovery.cs" />
+    <Compile Include="Interfaces\IDateOrder.cs" />
+    <Compile Include="Interfaces\IDateTimeAxis.cs" />
+    <Compile Include="Interfaces\IDateTimeSequence.cs" />
+    <Compile Include="Interfaces\IDuplicateTimeStamps.cs" />
+    <Compile Include="Interfaces\IExportFile.cs" />
+    <Compile Include="Interfaces\IFillMissingDate.cs" />
+    <Compile Include="Interfaces\IGrid.cs" />
+    <Compile Include="Interfaces\IProcessDateTime.cs" />
+    <Compile Include="Interfaces\ISensorConfig.cs" />
+    <Compile Include="Interfaces\ISensorConfigFactory.cs" />
+    <Compile Include="Interfaces\ISession.cs" />
+    <Compile Include="Interfaces\ISessionColumn.cs" />
+    <Compile Include="Interfaces\ISessionColumnCollection.cs" />
+    <Compile Include="Interfaces\ISessionData.cs" />
+    <Compile Include="Interfaces\IShear.cs" />
+    <Compile Include="Interfaces\IWindDirectionAxis.cs" />
+    <Compile Include="Interfaces\IWindSpeedConfig.cs" />
+    <Compile Include="Model\AlphaGridColumn.cs" />
+    <Compile Include="Model\AverageGridColumn.cs" />
+    <Compile Include="Model\AxisValueGridColumn.cs" />
+    <Compile Include="Model\BuildJulianDate.cs" />
+    <Compile Include="Model\BulkShear.cs" />
+    <Compile Include="Model\BulkShearStationSummary.cs" />
+    <Compile Include="Model\CoincidentValues.cs" />
+    <Compile Include="Model\CountGridColumn.cs" />
+    <Compile Include="Model\Create1byYGrid.cs" />
+    <Compile Include="Model\CreateDataRecoveryGrid.cs" />
+    <Compile Include="Model\CreateHourSummaryGrid.cs" />
+    <Compile Include="Model\CreateMonthSummaryGrid.cs" />
+    <Compile Include="Model\CreateWindDirectionSummaryGrid.cs" />
+    <Compile Include="Model\CreateWindRoseSummaryGrid.cs" />
+    <Compile Include="Model\CreateWindSpeedSummaryGrid.cs" />
+    <Compile Include="Model\CreateXbyYGrid.cs" />
+    <Compile Include="Model\CreateXbyYShearSummmaryGrid.cs" />
+    <Compile Include="Model\DataPrep.cs" />
+    <Compile Include="Model\DataRecovery.cs" />
+    <Compile Include="Model\DataRecoveryRateGridColumn.cs" />
+    <Compile Include="Model\DataRecoveryWorksheet.cs" />
+    <Compile Include="Model\DateOrderIndexValue.cs" />
+    <Compile Include="Model\DateTimeSequence.cs" />
+    <Compile Include="Model\DuplicateTimeStamps.cs" />
+    <Compile Include="Model\ExplicitValueGridColumn.cs" />
+    <Compile Include="Model\ExportFile.cs" />
+    <Compile Include="Model\FrequencyGridColumn.cs" />
+    <Compile Include="Model\Grid.cs" />
+    <Compile Include="Model\HeightConfig.cs" />
+    <Compile Include="Model\HeightConfigCollection.cs" />
+    <Compile Include="Model\HourAxis.cs" />
+    <Compile Include="Model\HourShear.cs" />
+    <Compile Include="Model\HourShearWorkSheet.cs" />
+    <Compile Include="Model\MonthAxis.cs" />
+    <Compile Include="Model\MonthAxisValueGridColumn.cs" />
+    <Compile Include="Model\MonthbyHourShear.cs" />
+    <Compile Include="Model\MonthbyHourShearWorkSheet.cs" />
+    <Compile Include="Model\MonthbyYearShearWorkSheet.cs" />
+    <Compile Include="Model\MonthYearAxis.cs" />
+    <Compile Include="Model\ProcessDate.cs" />
+    <Compile Include="Model\Sector.cs" />
+    <Compile Include="Model\SensorConfig.cs" />
+    <Compile Include="Model\Session.cs" />
+    <Compile Include="Model\SessionColumn.cs" />
+    <Compile Include="Model\SessionColumnCollection.cs" />
+    <Compile Include="Model\ShearCalculationGridCollection.cs" />
+    <Compile Include="Model\SingleAxisShearStationSummmary.cs" />
+    <Compile Include="Model\SummaryGridColumn.cs" />
+    <Compile Include="Model\SummmaryGrid.cs" />
+    <Compile Include="Model\SummmaryGridRow.cs" />
+    <Compile Include="Model\Utils.cs" />
+    <Compile Include="Model\WindDirectionAxis.cs" />
+    <Compile Include="Model\WindDirectionCompColumns.cs" />
+    <Compile Include="Model\WindDirectionComposite.cs" />
+    <Compile Include="Model\WindRoseWorkSheet.cs" />
+    <Compile Include="Model\WindSpeedAxis.cs" />
+    <Compile Include="Model\WindSpeedCompColumns.cs" />
+    <Compile Include="Model\WindSpeedComposite.cs" />
+    <Compile Include="Model\WindSpeedConfig.cs" />
+    <Compile Include="Model\WindSpeedFrequencyMonthHourWorkSheet.cs" />
+    <Compile Include="Model\WindSpeedFrequencyWDWSWorkSheet.cs" />
+    <Compile Include="Model\XbyYCoincidentRow.cs" />
+    <Compile Include="Model\XbyYShearCoincidentRowCollection.cs" />
+    <Compile Include="Model\XbyYShearStationSummary.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs" />
+    <Compile Include="Properties\Settings1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Tests\Test.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Config\app.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings1.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GongSolutions.Wpf.DragDrop\GongSolutions.Wpf.DragDrop.csproj">
+      <Project>{0C6674CC-6D49-414A-9B41-D4E175028FFB}</Project>
+      <Name>GongSolutions.Wpf.DragDrop</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <PropertyGroup>
+    <PostBuildEvent>rem:copy "$(TargetDir)*.*" C:\Users\Oakland\Desktop\WindartTestBuilds\</PostBuildEvent>
+  </PropertyGroup>
+</Project>
