@@ -182,10 +182,10 @@ namespace WindART
             //return the config of this column at a given date 
             for (int i = 0; i < _configs.Count; i++)
             {
-                if (date >= _configs[i].StartDate && date <= _configs[i].EndDate)
-                {
-                    return _configs[i];
-                }
+                //if (date >= _configs[i].StartDate && date <= _configs[i].EndDate)
+                //{
+                return _configs[i];
+                //}
             }
             return null;
         }

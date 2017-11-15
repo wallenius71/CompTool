@@ -380,19 +380,22 @@ namespace WindART
                                                         }
                                                         else
                                                         {
-                                                    if (child.ColumnType == SessionColumnType.WSStd)
-                                                    {//combine ws standard deviations more correctly than straight average 
-                                                     // np.sqrt((x_std * *2 + y_std * *2 
-                                                     //+ (x_mean - combined_mean) * *2 
-                                                     //+ (y_mean - combined_mean) * *2) / 2)
-                                                        double pooled_var = (Math.Pow(useval, 2.0)+ Math.Pow(usevalB, 2.0)
+                                                            if (child.ColumnType == SessionColumnType.WSStd)
+                                                                {//combine ws standard deviations more correctly than straight average 
+                                                     
+                                                                    double pooled_var = (Math.Pow(useval, 2.0)+ Math.Pow(usevalB, 2.0)
                                                                                     + Math.Pow((AVal - averageWs), 2.0)
                                                                                     + Math.Pow((BVal - averageWs), 2.0))/2;
-                                                        double pooled_std = Math.Sqrt(pooled_var);
-                                                                rowview[thischildcompname] = pooled_std;
-                                                                }
-                                                            else
-                                                                { rowview[thischildcompname] = new double[2] { useval, usevalB }.Average();
+
+                                                                    double pooled_std = Math.Sqrt(pooled_var);
+                                                                    if (pooled_std < 100.0)
+                                                                        { rowview[thischildcompname] = pooled_std; }
+                                                                    else
+                                                                        { rowview[thischildcompname] = missing; }
+                                                                 }
+                                                             else
+                                                                {
+                                                                    rowview[thischildcompname] = new double[2] { useval, usevalB }.Average();
                                                                 }
                                                         }
 
